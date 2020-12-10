@@ -1,0 +1,6 @@
+﻿@charset "utf-8";
+
+li{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap;font-family:'돋움',Dotum; font-size:12px; color:#4e4e4e; padding:10px;}
+/*li strong{ display:inline-block; width:30px; text-align:left; font-weight:bold; color:#fff}*/
+li span{font-weight:bold;}
+.title{display:none;}
